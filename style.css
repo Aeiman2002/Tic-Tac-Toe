@@ -46,7 +46,7 @@ body {
     border-radius: 10px;
     background-color: #9fc46d !important;
     height: 10vmin;
-    width: 25vmin;
+    width: 40vmin;
     color: black !important;
     font-size: 20px !important;
     font-weight: 700 !important;
@@ -62,11 +62,11 @@ body {
     color: #3C5A14 !important;
 }
 
-
+/* 
 @media screen and (min-width: 0px) and (max-width: 500px) {
     .game-box {
     height: 70vh;
     width: 100vh;
 }
 
-}
+} */
