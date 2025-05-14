@@ -61,3 +61,12 @@ body {
     width: 25vmin;
     color: #3C5A14 !important;
 }
+
+
+@media screen and (min-width: 0px) and (max-width: 500px) {
+    .game-box {
+    height: 70vh;
+    width: 100vh;
+}
+
+}
