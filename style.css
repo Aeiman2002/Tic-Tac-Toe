@@ -58,7 +58,7 @@ body {
     outline: none;
     background-color: #ffffff !important;
     height: 10vmin;
-    width: 25vmin;
+    width: 50vmin;
     color: #3C5A14 !important;
 }
 
@@ -67,5 +67,4 @@ body {
     .game-box {
     height: 30vh;
 }
-
 }
