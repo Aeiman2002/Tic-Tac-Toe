@@ -15,11 +15,11 @@ body {
 }
 
 .game-box {
-    height: 70vh;
-    width: 70vh;
+    height: 50vh;
 }
 
 .btn {
+    margin: 15px;
     border: none;
     outline: none;
     background-color: #9fc46d !important;
@@ -62,11 +62,10 @@ body {
     color: #3C5A14 !important;
 }
 
-/* 
+
 @media screen and (min-width: 0px) and (max-width: 500px) {
     .game-box {
-    height: 70vh;
-    width: 100vh;
+    height: 30vh;
 }
 
-} */
+}
